@@ -1,1 +1,6 @@
-asdsadasdasdas
+<?php
+
+
+die(phpinfo());
+
+?>
